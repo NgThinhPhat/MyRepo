@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BackgroundTask</string>
+    <string name="no_search_term">Please enter a search term</string>
+    <string name="no_network">Please check your network connection and try again.</string>
+    <string name="no_results">No Results Found</string>
+    <string name="loading">Loading...</string>
+    <string name="hint_text">Input keyword</string>
+    <string name="search_text">Search book</string>
+    <string name="book_title">Book title:</string>
+    <string name="authors">Authors:</string>
+</resources>
